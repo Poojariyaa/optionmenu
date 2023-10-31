@@ -1,4 +1,4 @@
-![image](https://github.com/Poojariyaa/optionmenu/assets/127511817/58494860-825f-422e-b27d-c83adc25a03e)![image](https://github.com/Poojariyaa/optionmenu/assets/127511817/8607a55e-a37b-4ca3-bfc9-b03bb96730a5)![image](https://github.com/Poojariyaa/optionmenu/assets/127511817/3c2e58c9-db24-4331-8a3b-6b287bdeb4df)![image](https://github.com/Poojariyaa/optionmenu/assets/127511817/28c84f8d-437e-4177-9026-6832c58c155b)# Ex.No:10 To create a option menu to display menu items.
+# Ex.No:10 To create a option menu to display menu items.
 # AIM:
  To create a option menu to display menu items.
 
@@ -78,8 +78,6 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://github.com/Poojariyaa/optionmenu/assets/127511817/f803878d-0718-498a-89f5-4e2f4582bab7)
 ![image](https://github.com/Poojariyaa/optionmenu/assets/127511817/cec8b94c-fa84-4de3-a62c-b86144e87145)
 ![image](https://github.com/Poojariyaa/optionmenu/assets/127511817/1736912d-f1b1-433d-85e0-fc5c7ffc5e88)
-
-
 
 
 # RESULT
